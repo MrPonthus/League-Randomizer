@@ -77,7 +77,11 @@ if st.button("Generate Build"):
         st.write("-", spell)
 
     st.write("Starter:")
-    st.write(random.choice(Starter))
+
+    if Role == "Jungle":
+        st.write("Pick any jungle pet")
+    else:
+        st.write(random.choice(starter))
 
     st.write("Boots:")
     st.write(random.choice(Boots))
