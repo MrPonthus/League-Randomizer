@@ -49,7 +49,7 @@ Items = ["Abyssal Mask", "Actualizer", "Archangel's Staff", "Ardent Censer", "At
          "Liandry's Torment", "Lich Bane", "Locket of the Iron Solari", "Lord Dominik's Regards", "Luden's Echo", "Malignance", "Manamune", "Maw of Malmortius",
          "Mejai's Soulstealer", "Mercurial Scimitar", "Mikael's Blessing", "Moonstone Renewer", "Morellonomicon", "Mortal Reminder", "Nashor's Tooth", "Navori Flickerblade",
          "Overlord's Bloodmail", "Phantom Dancer", "Profane Hydra", "Protoplasm Harness", "Rabadon's Deathcap", "Randuin's Omen", "Rapid Firecannon", "Ravenous Hydra", "Redemption",
-         "Riftmaker", "Rod of Ages", "Runaan's Hurrican", "Rylai's Crystal Scepter", "Seraph's Embrace", "Serpent's", "Serylda's Grudge", "Shadowflame", "Shurelya's Battlesong", "Spear of Shojin",
+         "Riftmaker", "Rod of Ages", "Rylai's Crystal Scepter", "Seraph's Embrace", "Serpent's", "Serylda's Grudge", "Shadowflame", "Shurelya's Battlesong", "Spear of Shojin",
          "Spirit Visage", "Staff of Flowing Water", "Statikk Shiv", "Sterak's Gage", "Stormrazor", "Stormsurge", "Stridebreaker", "Sundered Sky", "Sunfire Aegis", "Sword of Blossoming Dawn",
          "Terminus", "The Collector", "Thornmail", "Titanic Hydra", "Trinity Force", "Umbral Glaive", "Unending Despair", "Void Staff", "Voltaic Cyclosword", "Warmog's Armor", "Winter's Approach", "Wit's End",
          "Youmuu's Ghsotblade", "Yun Tal Wildarrows", "Zeke's Convergence", "Zhonya's Hourglass"]
